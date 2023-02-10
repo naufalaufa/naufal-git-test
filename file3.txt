@@ -1,0 +1,2 @@
+ini adalah file 3txt
+seharusnya masi ada baris ke2
